@@ -1,4 +1,4 @@
-![MasterHead]([https://maruf001-mt.github.io/Premium-Delivery/web.gif](https://github.blog/wp-content/uploads/2024/08/github-cli-header.png?resize=400%2C212))
+![MasterHead]((https://analyticsindiamag.com/wp-content/uploads/2021/11/Top-10-Programming-Languages-Used-By-GitHub-Repo-Contributors-In-2021.jpg))
 <h1 align="center">Hi 👋, I'm Dushyant Makwana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
