@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanalyticsindiamag.com%2Fai-origins-evolution%2Fgithub-repo-contributors%2F&psig=AOvVaw1cUMpnWvymn5hKtDNYpRAA&ust=1725551659514000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjHvpbTqYgDFQAAAAAdAAAAABAR)
+![MasterHead](https://analyticsindiamag.com/wp-content/uploads/2021/11/Top-10-Programming-Languages-Used-By-GitHub-Repo-Contributors-In-2021.jpg)
 <h1 align="center">Hi 👋, I'm Dushyant Makwana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
