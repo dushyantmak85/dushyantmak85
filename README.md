@@ -13,16 +13,16 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/dushyant-makwana-21729b2bb">
     <img src="https://img.shields.io/badge/LinkedIn-201EBA?style=for-the-badge&logo=linkedin&logoColor=white&width=100" alt="LinkedIn" />
   </a>
-  <a href="https://www.codechef.com/users/yourusername">
+  <a href="https://www.codechef.com/users/dushyantx85">
     <img src="https://img.shields.io/badge/CodeChef-BA281E?style=for-the-badge&logo=codechef&logoColor=white&size=100" alt="CodeChef" />
   </a>
-  <a href="https://www.instagram.com/yourusername">
+  <a href="https://www.instagram.com/dushyantmak85">
     <img src="https://img.shields.io/badge/Instagram-e00c68?style=for-the-badge&logo=instagram&logoColor=white&size=100" alt="Instagram" />
   </a>
-  <a href="https://leetcode.com/yourusername">
+  <a href="https://leetcode.com/dushyantx85">
     <img src="https://img.shields.io/badge/LeetCode-F9C24B?style=for-the-badge&logo=leetcode&logoColor=black&label=LeetCode" alt="LeetCode" />
   </a>
 </div>
