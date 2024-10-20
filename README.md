@@ -37,7 +37,7 @@
 <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics</h2>
 
 <div style="display: flex; justify-content: space-between; align-item:left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nepal143&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" width="48%" height="195px" style="margin-right:-5px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dushyantmak85&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" width="48%" height="195px" style="margin-right:-5px;" />
   
   <img src="https://github-readme-stats.vercel.app/api?username=dushyantmak85&show_icons=true&locale=en&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" width="49.5%" height="195px" />
 </div>
