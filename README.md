@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/d0262c7f-fc1a-436c-aa2e-d86a48cd55fe)
+![image](https://github.com/user-attachments/assets/5642408f-a8be-44ba-9f21-54ea5a1a8ee5)
+
 
 
 <h1 align="center">Hi 👋, I'm Dushyant Makwana</h1>
