@@ -1,8 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
-<h1 align="center">Hi 👋, I'm Dushyant Makwana</h1>
-<h3 align="center">A passionate frontend and game developer from India</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dushyantmak85&label=Profile%20views&color=0e75b6&style=flat" alt="dushyantmak85" /> </p>
+![image](https://github.com/user-attachments/assets/b8c620f8-ed3e-4fc3-a3f3-5f36a310e439)
 
+<h1 align="center">Hi 👋, I'm Dushyant Makwana</h1>
+<h3 align="center">A Passionate App And Game Developer From India</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dushyantmak85&label=Profile%20views&color=0e75b6&style=flat" alt="dushyantmak85" /> </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=%2300bfff&size=22&center=true&vCenter=true&width=450&lines=React+Developer;Coding+Enthusiast;Full+Stack+Expert;Game+Developer;Creative+Hustler" />
 </p>
@@ -10,6 +10,7 @@
 <p align="center">💬 Ask me about React, Node.js, Game development</p>
 <p align="center">📫 Reach me through <a href="dushyantmakwana2004@gmail.com">dushyantmakwana2004@gmail.com</a></p>
 <p align="center">🎧 A Creative Hustler...</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
