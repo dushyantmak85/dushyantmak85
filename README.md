@@ -39,15 +39,15 @@
 
 <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
 
   <!-- Most Used Languages on the left -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dushyantmak85&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" width="448" height="auto" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dushyantmak85&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" width="400" height="auto" />
 
   <!-- Stats on the right -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dushyantmak85&show_icons=true&locale=en&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" width="auto" height="auto"  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dushyantmak85&show_icons=true&locale=en&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" width="auto" height="auto"  />
 
-</div>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dushyantmak85&custom_title=Dushyant's%20Contribution%20Graph&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" >
