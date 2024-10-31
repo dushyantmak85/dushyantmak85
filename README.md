@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/b8c620f8-ed3e-4fc3-a3f3-5f36a310e439)
+![image](https://github.com/user-attachments/assets/d0262c7f-fc1a-436c-aa2e-d86a48cd55fe)
+
 
 <h1 align="center">Hi 👋, I'm Dushyant Makwana</h1>
 <h3 align="center">A Passionate App And Game Developer From India</h3>
@@ -37,24 +38,22 @@
 
 <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics</h2>
 
-<div style="display: flex; justify-content: space-between; align-item:left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dushyantmak85&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" width="48%" height="195px" style="margin-right:-5px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=dushyantmak85&show_icons=true&locale=en&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" width="49.5%" height="195px" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
+  <!-- Most Used Languages on the left -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dushyantmak85&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" width="48%" height="195px" style="max-width: 48%; min-width: 300px;" />
+
+  <!-- Stats on the right -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dushyantmak85&show_icons=true&locale=en&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true" width="48%" height="195px" style="max-width: 48%; min-width: 300px;" />
+
 </div>
 
-
-
- 
-
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dushyantmak85&custom_title=Dushyant's%20Contribution%20Graph&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true">
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dushyantmak85&custom_title=Dushyant's%20Contribution%20Graph&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" style="max-width: 98%; width: 100%; height: auto;">
 </p>
 
 <p align="center">
-    <img width="49.5%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=dushyantmak85&theme=dark&background=0d1117&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00bfff&sideLabels=00bfff&dates=ffffff">
+    <img width="49.5%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=dushyantmak85&theme=dark&background=0d1117&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00bfff&sideLabels=00bfff&dates=ffffff" style="max-width: 400px; width: 100%;">
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{dushyantmak85}/count.svg"></p>
