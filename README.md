@@ -61,15 +61,15 @@
   <!-- Stats on the right -->
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dushyantmak85&show_icons=true&theme=radical&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=dushyantmak85&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dushyantmak85&show_icons=true&theme=radical&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=dushyantmak85&theme=radical" />
 </div>
 
 ---
 
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantmak85&langs_count=8&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantmak85&langs_count=8&layout=compact&theme=radical" />
 </p>
 
 ---
