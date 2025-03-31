@@ -42,12 +42,20 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dushyantmak85&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true"  />
 
   <!-- Stats on the right -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dushyantmak85&show_icons=true&locale=en&bg_color=0d1117&title_color=00bfff&text_color=ffffff&icon_color=00bfff&hide_border=true"  />
+ <p align="right">
+   
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dushyantmak85&theme=chartreuse-dark&show_icons=true)
+ </p>
+ 
+   
+  
+    
 
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dushyantmak85&custom_title=Dushyant's%20Contribution%20Graph&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" >
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dushyantmak85&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 <p align="center">
@@ -55,5 +63,13 @@
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{dushyantmak85}/count.svg"></p>
+
+
+
+
+
+
+
+
 
 
