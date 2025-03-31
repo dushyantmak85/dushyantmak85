@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Dushyant Makwana</h1>
 <h3 align="center">
 
-   A  Developer With Indian Coded Brain 
+   A  Developer With Brain Coded In India 
    <img src="https://img.icons8.com/?size=100&id=eLqYZB2LtBjj&format=png&color=000000" alt="App" height="30" style="vertical-align: middle; margin-bottom: -10rem;" />
   
 </h3>
@@ -40,13 +40,13 @@
 
 ### 💬 **Let's Connect**
 <p align="center">
-  <a href="https://linkedin.com/in/dushyantmak85" target="_blank">
+  <a href="https://www.linkedin.com/in/dushyant-makwana-21729b2bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="https://github.com/dushyantmak85" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
-  <a href="mailto:dushyantmak85@gmail.com" target="_blank">
+  <a href="mailto:dushyantmakwana2004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
 
