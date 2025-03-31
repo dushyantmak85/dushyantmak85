@@ -83,9 +83,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dushyantmak85&theme=redical" alt="GitHub Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/dushyantmak85/dushyantmak85/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
+
+###
+
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dushyantmak85/dushyantmak85/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dushyantmak85/dushyantmak85/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dushyantmak85/dushyantmak85/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 
