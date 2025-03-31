@@ -3,9 +3,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Dushyant Makwana</h1>
-<h3 align="center">💻 Game Developer | 🌐 Full-Stack Developer | 📱 App Developer</h3>
-
 <h3 align="center">
+   <img src="https://img.icons8.com/?size=100&id=eLqYZB2LtBjj&format=png&color=000000" alt="App" height="30" style="vertical-align: middle; margin-bottom: -3px;" />
+   A  Developer With Indian Coded Brain 
+  
+</h3>
+
+
+
+
+
+<h3 align="center" style="margin-top:10px">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=1000&color=FF5F6D&center=true&vCenter=true&width=550&lines=Indie+Game+Developer;Web+Developer;Coding+Enthusiast" />
 </h3>
 
@@ -31,10 +39,16 @@
 
 ### 💬 **Let's Connect**
 <p align="center">
-  <a href="https://www.linkedin.com/in/dushyantmakwana" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/dushyantmak85" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:dushyantmakwana@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+  <a href="https://linkedin.com/in/dushyantmak85" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  <a href="https://github.com/dushyantmak85" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="30" />
+  </a>
+  <a href="mailto:dushyantmak85@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
+
 
 ---
 
