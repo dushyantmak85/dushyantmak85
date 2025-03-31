@@ -5,10 +5,11 @@
 <h1 align="center">Hi 👋, I'm Dushyant Makwana</h1>
 <h3 align="center">💻 Game Developer | 🌐 Full-Stack Developer | 📱 App Developer</h3>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2000&pause=1000&color=FF5F6D&center=true&vCenter=true&width=550&lines=Indie+Game+Developer;Web+Developer;Coding+Enthusiast" />
+</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=%2300bfff&size=22&center=true&vCenter=true&width=450&lines=React+Developer;Coding+Enthusiast;Full+Stack+Expert;Game+Developer;Creative+Hustler" />
-</p>
+
 
 ---
 
