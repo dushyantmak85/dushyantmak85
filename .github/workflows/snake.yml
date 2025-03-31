@@ -1,0 +1,39 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Run at 12:00 AM every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Generate Snake Grid
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Generate Snake Animation
+      uses: Platane/snk@v3
+      with:
+        github_user_name: dushyantmak85
+        svg_out_path: dist/github-contribution-grid-snake.svg
+
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: snake-animation
+        path: dist/github-contribution-grid-snake.svg
+
+    - name: Push Snake Animation to Output Branch
+      uses: crazy-max/ghaction-github-pages@v2
+      with:
+        target_branch: output
+        build_dir: dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
