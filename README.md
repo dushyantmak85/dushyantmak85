@@ -4,8 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Dushyant Makwana</h1>
 <h3 align="center">
-   <img src="https://img.icons8.com/?size=100&id=eLqYZB2LtBjj&format=png&color=000000" alt="App" height="30" style="vertical-align: middle; margin-bottom: -3px;" />
+
    A  Developer With Indian Coded Brain 
+   <img src="https://img.icons8.com/?size=100&id=eLqYZB2LtBjj&format=png&color=000000" alt="App" height="30" style="vertical-align: middle; margin-bottom: -10rem;" />
   
 </h3>
 
@@ -60,15 +61,15 @@
   <!-- Stats on the right -->
 
 <div align="center">
-  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=dushyantmak85&show_icons=true&theme=radical&count_private=true" />
-  <img height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=dushyantmak85&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dushyantmak85&show_icons=true&theme=radical&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=dushyantmak85&theme=radical" />
 </div>
 
 ---
 
 
 <p align="center">
-  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantmak85&langs_count=8&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantmak85&langs_count=8&layout=compact&theme=radical" />
 </p>
 
 ---
