@@ -45,8 +45,8 @@
   <!-- Stats on the right -->
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dushyantmak85&show_icons=true&theme=radical&count_private=true" />
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=dushyantmak85&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dushyantmak85&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=dushyantmak85&theme=radical" />
 </div>
 
 ---
@@ -73,9 +73,6 @@
 
 
 
-<p align="center">
-    <img width="auto" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=dushyantmak85&theme=dark&background=0d1117&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00bfff&sideLabels=00bfff&dates=ffffff" >
-</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{dushyantmak85}/count.svg"></p>
 
