@@ -3,7 +3,6 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Dushyant Makwana</h1>
 <h3 align="center">
 
    A  Developer With Brain Coded In India 
