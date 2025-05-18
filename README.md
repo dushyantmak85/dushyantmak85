@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/5642408f-a8be-44ba-9f21-54ea5a1a8ee5)
+[![My Animated Banner](https://github.com/dushyantmak85/dushyantmak85/blob/main/assets/bannerGif.gif?raw=true)](https://github-banner-two.vercel.app/)
+
 
 
 
